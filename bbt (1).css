@@ -1,0 +1,23 @@
+body { 
+	background: #000000 ;
+	background-size: cover;
+	margin: 0; 
+	padding: 0;
+	}
+h1 {
+	color: #00BCFF;
+}
+
+.warning {
+    border: 10px ridge #FC0000;
+    background-color: ##11ffee00;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+	width: 200px;
+	height: 60px;
+}
+
+p{
+	color: #FFFFFF;
+}
